@@ -1,4 +1,5 @@
 accessed here: https://khai8386nguyen.github.io/market-capitalisation-dashboard/
+This is a Dashboard of "Total Market Capitalisation, relative to GDP, 1975 - 2025" of selected countries
 
 A/P: Guiying Laura Wu 
 
